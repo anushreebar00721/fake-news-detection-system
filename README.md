@@ -14,9 +14,15 @@ The dataset used in this project is taken from Kaggle:
 
 https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 
-This dataset contains both fake and real news articles, including their titles and full text content. The dataset is used to train and evaluate the model for fake news classification.
+The dataset contains approximately 44,898 news articles, including both fake and real news. Each article consists of fields such as title and text, which are used for building the model.
 
+Out of the total dataset:
 
+- 23,481 are Real news samples
+
+- 21,417 are Fake news samples
+
+The dataset is fairly balanced, which helps in training the model effectively without bias toward any particular class.
 
 ##  Approach
 
