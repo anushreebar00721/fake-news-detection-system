@@ -39,7 +39,7 @@ After that, I have created a new column called “content” by combining the ti
 
 Next, I have split the dataset into training and testing sets using an 80:20 ratio.
 
-Then, I have used the BERT tokenizer to convert the text into numerical format, applied padding and truncation, and set a maximum sequence length of 128.
+Then, I have used the BERT tokenizer to convert the text into numerical format, applied padding and truncation, and set a maximum sequence length of 256.
 
 After preprocessing, I have created a PyTorch dataset and fine-tuned a pretrained BERT model for classification.
 
