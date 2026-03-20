@@ -70,6 +70,9 @@ After training, I evaluated the model using:
 
 I also used a confusion matrix to visualize the model’s performance.
 
+<img width="574" height="436" alt="confusion matrix" src="https://github.com/user-attachments/assets/5107b208-c471-4665-bc02-1427330c2c65" />
+
+
 ## Deployment
 
 To make the project more interactive, I created a simple Gradio interface.
@@ -77,6 +80,9 @@ To make the project more interactive, I created a simple Gradio interface.
 In this interface, a user can enter any news headline or article, and the model will predict whether it is fake or real.
 
 This makes the project more practical and user-friendly.
+
+<img width="1163" height="399" alt="image" src="https://github.com/user-attachments/assets/f1bbfe5b-5dca-408f-8f50-a3742839abbf" />
+
 
 ## Challenges
 
